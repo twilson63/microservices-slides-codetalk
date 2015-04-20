@@ -3,8 +3,8 @@ author:
   name: Tom Wilson
   twitter: twilson63
   url: http://jackrussellsoftware.com
-output: index.html
-controls: true
+output: print.html
+template: print.mustache
 
 --
 
